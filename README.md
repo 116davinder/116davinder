@@ -1,4 +1,4 @@
-<img href="https://raw.githubusercontent.com/116davinder/116davinder/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/116davinder/116davinder/output/snake.svg" alt="Snake animation" />
 
 ###
 
